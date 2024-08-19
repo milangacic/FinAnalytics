@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnalyticsEngine", "AnalyticsEngine\AnalyticsEngine.csproj", "{20B17310-9719-42B0-9F24-1E990A7E14B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FinAnalyticsApp", "FinAnalyticsApp\FinAnalyticsApp.csproj", "{ED5EDC57-1696-43AE-8E7F-E1216E54865B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnalyticsEngineTest", "AnalyticsTest\AnalyticsEngineTest.csproj", "{2BF85935-CF8E-46C1-8B87-E69922C00AE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChartControls", "ChartControls\ChartControls.csproj", "{3A835452-94B1-4AB9-B155-CA7345D7F6CB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChartTestForm", "ChartTestForm\ChartTestForm.csproj", "{390C0827-BE9A-47E7-9CE9-8F156E9099FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChartControlsTest", "ChartControlsTest\ChartControlsTest.csproj", "{5F5B9F46-AFCB-4569-AF70-E56C9903FA53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B17310-9719-42B0-9F24-1E990A7E14B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B17310-9719-42B0-9F24-1E990A7E14B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B17310-9719-42B0-9F24-1E990A7E14B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B17310-9719-42B0-9F24-1E990A7E14B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5EDC57-1696-43AE-8E7F-E1216E54865B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5EDC57-1696-43AE-8E7F-E1216E54865B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5EDC57-1696-43AE-8E7F-E1216E54865B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5EDC57-1696-43AE-8E7F-E1216E54865B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF85935-CF8E-46C1-8B87-E69922C00AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF85935-CF8E-46C1-8B87-E69922C00AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF85935-CF8E-46C1-8B87-E69922C00AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF85935-CF8E-46C1-8B87-E69922C00AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A835452-94B1-4AB9-B155-CA7345D7F6CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A835452-94B1-4AB9-B155-CA7345D7F6CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A835452-94B1-4AB9-B155-CA7345D7F6CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A835452-94B1-4AB9-B155-CA7345D7F6CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390C0827-BE9A-47E7-9CE9-8F156E9099FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390C0827-BE9A-47E7-9CE9-8F156E9099FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390C0827-BE9A-47E7-9CE9-8F156E9099FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390C0827-BE9A-47E7-9CE9-8F156E9099FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F5B9F46-AFCB-4569-AF70-E56C9903FA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5B9F46-AFCB-4569-AF70-E56C9903FA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5B9F46-AFCB-4569-AF70-E56C9903FA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5B9F46-AFCB-4569-AF70-E56C9903FA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDAB60D3-3252-4284-B35D-AFEA4FCD04D3}
+	EndGlobalSection
+EndGlobal

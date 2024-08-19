@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AnalyticsEngine\AnalyticsEngine.csproj" />
+    <ProjectReference Include="..\ChartControls\ChartControls.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Data\gemini_ETHUSD_2021_1min.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

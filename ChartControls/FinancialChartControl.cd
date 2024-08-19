@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChartControls.ChartDefinition" HideInheritanceLine="true">
+    <Position X="6" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAQQAAABAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>ChartDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChartControls.ChartSeries" HideInheritanceLine="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAQBAAACEBAABQAAAAAAABA=</HashCode>
+      <FileName>ChartSeries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChartControls.ChartRenderer">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAICACAEAQAAAgAZAACAqSAAAAIQAACAGAABAtARCA=</HashCode>
+      <FileName>ChartRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChartControls.ChartLayout" HideInheritanceLine="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAABAAAKAQgQAgIAAAAAABAIAAAAAAAAAgAkACGEAA=</HashCode>
+      <FileName>ChartLayout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChartControls.AxisDefinition" HideInheritanceLine="true">
+    <Position X="4.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAICAAAAAIAIAAAAAAACAACAQAAACAAAAA=</HashCode>
+      <FileName>AxisDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChartControls.EventManager" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBBAAIAKACCAEQDAEIAAAAAAIhoAEBAAJCAoAAACQAI=</HashCode>
+      <FileName>EventManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChartControls.ScrollManager" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAQAACAAAAgCAAACAIAAAAAAAQAAAAAgQAAAQkA=</HashCode>
+      <FileName>ScrollManager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChartControls.SelectionManager" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAKAAAAAAAAEAAAAIAAEKAAAAAgAIAAABAAAIAAQCA=</HashCode>
+      <FileName>SelectionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChartControls.ZoomManager" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAABAAAAAEAAAAAgAAAAAAAgAAAAAAAAAQCA=</HashCode>
+      <FileName>ZoomManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChartControls.FinancialChartControl">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgCQAQACEAAQAAgQAKAAQAYAAhQIIIQIAACMINwAZEo=</HashCode>
+      <FileName>FinancialChartControl.xaml.cs</FileName>
+      <NewMemberFileName>ChartData.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ChartControls.DimensionManager" Collapsed="true">
+    <Position X="0.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAAAAAEACAAAAACAEhAAQIg=</HashCode>
+      <FileName>DimensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="ChartControls.SeriesStyle">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAABAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChartSeries.cs</FileName>
+      <NewMemberFileName>SeriesStyle.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ChartControls.SeriesType">
+    <Position X="6" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAACAAAAAAAAAAAAAAAACAAAAAAAABAAA=</HashCode>
+      <FileName>ChartSeries.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ChartControls.AxisType">
+    <Position X="4.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAA=</HashCode>
+      <FileName>AxisDefinition.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
